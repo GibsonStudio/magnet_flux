@@ -77,9 +77,6 @@ function move (e)
 
   }
 
-
-
-
 }
 
 
